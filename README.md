@@ -9,12 +9,9 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Data Sources](#data-sources)
-- [Project Structure](#project-structure)
 - [Key Features & Insights](#key-features--insights)
 - [Screenshots](#screenshots)
 - [Technologies & Tools](#technologies--tools)
-- [Installation & Usage](#installation--usage)
-- [Future Improvements](#future-improvements)
 - [Author](#author)
 
 ---
@@ -59,4 +56,5 @@ This Power BI dashboard visualizes responses from a survey conducted among 630 d
 - **Custom Visuals:** Gauge chart
 
 
+## Author
 Mansi Singh – Aspiring Data Analyst
